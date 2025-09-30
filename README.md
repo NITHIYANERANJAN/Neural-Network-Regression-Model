@@ -12,7 +12,8 @@ It uses MSE loss and RMSProp optimizer to minimize the error between predictions
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img width="954" height="633" alt="image" src="https://github.com/user-attachments/assets/69eca247-4a7f-49b7-8cf7-3c1d21a57b76" />
+
 
 ## DESIGN STEPS
 
